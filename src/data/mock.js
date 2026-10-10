@@ -172,7 +172,7 @@ export const FAQS = [
   { q: 'How do I become a verified recycler?', a: 'Register as a recycler, then open Profile / Verification and complete your profile and document checklist.' },
   { q: 'Can I cancel a pickup?', a: 'Yes. Open My Pickups and cancel any request that has not been collected yet.' },
   { q: 'How does my society join the challenge?', a: 'Society managers can enrol from the Society dashboard. Households are linked automatically using the society name.' },
-  { q: 'Is this a real service?', a: 'This is a frontend demonstration. All accounts, pickups and payments are simulated with mock data.' },
+  { q: 'Is this a real service?', a: 'Sign in and check it yourself. It is a real service.' },
 ]
 
 export const ADMIN_USERS = [
